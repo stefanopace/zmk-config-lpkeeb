@@ -1,0 +1,6 @@
+if SHIELD_PASUMK1
+
+config ZMK_KEYBOARD_NAME
+    default "pasu_mk1"
+
+endif
